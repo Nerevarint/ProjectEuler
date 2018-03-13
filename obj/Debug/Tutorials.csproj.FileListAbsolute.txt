@@ -1,0 +1,6 @@
+C:\Users\Виктория\RiderProjects\Tutorials\Tutorials\bin\Debug\Tutorials.exe
+C:\Users\Виктория\RiderProjects\Tutorials\Tutorials\bin\Debug\Tutorials.pdb
+C:\Users\Виктория\RiderProjects\Tutorials\Tutorials\obj\Debug\Tutorials.csprojResolveAssemblyReference.cache
+C:\Users\Виктория\RiderProjects\Tutorials\Tutorials\obj\Debug\Tutorials.csproj.CoreCompileInputs.cache
+C:\Users\Виктория\RiderProjects\Tutorials\Tutorials\obj\Debug\Tutorials.exe
+C:\Users\Виктория\RiderProjects\Tutorials\Tutorials\obj\Debug\Tutorials.pdb
